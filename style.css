@@ -1,0 +1,22 @@
+#container {
+    display: grid;
+    background-color: black;
+    margin: auto;
+    max-width: 40vw;
+    height: 90vh;
+}
+
+.gridbox {
+    background-color: darkred;
+
+
+}
+
+button { 
+    display: block;
+    margin: 3vh auto;
+    padding: 3vh 3vw;
+    background-color: darkblue;
+    color: white;
+    font-size: 2vw;
+}
